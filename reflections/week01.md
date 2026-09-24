@@ -21,3 +21,8 @@ Testing: For this stage evoltuion was lacking as they only did bare basic testin
 Go live: Evolution was present in this stage as they had to change and fix the system.
 
 The biggest failure of this project was the kickoff stage as the lack of specification with plans, meetings and briefs led to a cascade of all the problems that would come from the project.
+
+## Researching a Software Failure
+Mars Climate Orbiter was a huge software failure that cost NASA $125 million. This software failure occurred due to Lockheed Martin providing thruster acceleration data in imperial units while NASA's navigation team expected and assumed that the thruster acceleration data would be in metric unit. This difference caused the orbiter to be permanently lost during orbital insertion when it flew too close to Mars and burned up in the atmosphere. 
+This was a clear lack of specification and validation, the specification for the project should of clarified what unit the data should be in and the validation should of seen Lockheed Martin or NASA identify or ask one another if the units were the correct ones.
+https://www.simscale.com/blog/nasa-mars-climate-orbiter-metric/
