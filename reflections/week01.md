@@ -26,3 +26,9 @@ The biggest failure of this project was the kickoff stage as the lack of specifi
 Mars Climate Orbiter was a huge software failure that cost NASA $125 million. This software failure occurred due to Lockheed Martin providing thruster acceleration data in imperial units while NASA's navigation team expected and assumed that the thruster acceleration data would be in metric unit. This difference caused the orbiter to be permanently lost during orbital insertion when it flew too close to Mars and burned up in the atmosphere. 
 This was a clear lack of specification and validation, the specification for the project should of clarified what unit the data should be in and the validation should of seen Lockheed Martin or NASA identify or ask one another if the units were the correct ones.
 https://www.simscale.com/blog/nasa-mars-climate-orbiter-metric/
+
+## Is There Still a Software Crisis?
+The 1968/69 NATO Software Engineering Conferences were held in Garmisch, Germany and Rome, Italy respectfully.
+
+In my opinion a software crisi like the one in 1960 is present today, this can be seen with the many software failures such as in 2024 a faulty CrowdStrike software update crashed computer systems worldwide, disrupting
+banks, airlines, hospitals and government offices, overrunning budgets and time constraints causes lack on testing causing failures in systems and now with the rise in AI and vide coding software is unreliable and having to fix this code can cause many projects to overrun in budgets.
