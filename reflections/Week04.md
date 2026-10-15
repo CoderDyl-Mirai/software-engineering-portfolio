@@ -19,4 +19,7 @@ DoD
 When a lecture marks a class as cancelled or rescheduled a student will receive notification.
 When a student is logged in they are able to view timetable.
 
+# Task 3
+Test-Driven Development a real world example is Apache Tomcat project.
 
+TDD would help scrum as tests would be done as development is progressing instead of at the end. This would help as code would be known to definitely work as hey are pushed into the code reducing chance of problems arising from code and having to refactor code
