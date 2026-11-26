@@ -1,0 +1,27 @@
+# Week 9
+# Task 1
+Goal B
+The purpose of the goal is to improve the maintainability of the codebase over the next two
+quarters by reducing 
+The perspective that featurs are taking longer to implement than thy should
+The environment is that onboaring new team mebers take longer than expected, parts of the codebase are descbed as scary to touch by deveolpers
+
+Questions that can be asked will:
+Is the code qualiy of the codebase poor and can be viewed using LOCs
+Is the code productiivty where is should be and can be viewed using FPs
+Is the langauge of the codebase causing features to be slowed this can be measured by meausing difference is time between the current languge and another langauge.
+
+I would use the effort per LOC metric model as it covers the firt question can cover the 2nd comewhat and covers the 3rd if other projects or similar natures LOCs are avialble.
+
+# Task 2
+Hypothesis:
+The code quality is poor due to developers becomign scared to touch it 
+The code producivity id low due to the poor code quality which is slowing down the dvelopers.
+The current langauge is harder to understand and the developers have less eperience with it.
+
+For LOC it will be recorded by measuring the effort per Lines of Code over a period of time and measure them against a similar projevt with same langauge to see how it compares
+For FP it will record all the functions points on the project and how long they should take overall and can be measured against a similar projevt with same langauge to see how it compares
+Record the LOC needed for the current langauge and compare that agaisnt a different langauge to see how much its different frm the other langauge 
+
+For collecting the data it would be done overtime measuring the LOC compelted and the FP and recording how much is completed over a period of time and compare the to other simialr project using both LOC and FPs to ensure the reliabilty of the results
+I would take the trend months to ensure the data is more accurate
